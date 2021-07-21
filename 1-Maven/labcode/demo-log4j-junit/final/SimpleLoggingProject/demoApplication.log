@@ -1,0 +1,13 @@
+[main] DEBUG com.workshop.operations.BasicLoggingDemo  - Hello this is a debug message
+  [main] INFO  com.workshop.operations.BasicLoggingDemo  - Hello this is an info message
+  [main] DEBUG com.workshop.operations.BasicLoggingDemo  - Hello this is a debug message
+  [main] INFO  com.workshop.operations.BasicLoggingDemo  - Hello this is an info message
+  [main] DEBUG com.workshop.operations.BasicLoggingDemo  - Hello this is a debug message
+  [main] INFO  com.workshop.operations.BasicLoggingDemo  - Hello this is an info message
+  [main] DEBUG com.workshop.operations.BasicLoggingDemo  - Hello this is a debug message
+  [main] INFO  com.workshop.operations.BasicLoggingDemo  - Hello this is an info message
+  [main] DEBUG com.workshop.operations.BasicLoggingDemo  - Hello this is a debug message
+  [main] INFO  com.workshop.operations.BasicLoggingDemo  - Hello this is an info message
+  [main] DEBUG com.workshop.operations.BasicLoggingDemo  - Hello this is a debug message
+  [main] INFO  com.workshop.operations.BasicLoggingDemo  - Hello this is an info message
+  

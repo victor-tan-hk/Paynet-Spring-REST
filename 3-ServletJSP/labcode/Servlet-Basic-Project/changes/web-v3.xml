@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+
+	<display-name>ServletBasicProject</display-name>
+	<welcome-file-list>
+		<welcome-file>welcome-form.html</welcome-file>
+		<welcome-file>second-welcome.html</welcome-file>
+		<welcome-file>third-welcome.jsp</welcome-file>
+	</welcome-file-list>
+
+	<!-- Servlet definitions -->
+	<servlet>
+		<servlet-name>AwesomeServlet</servlet-name>
+		<servlet-class>com.workshop.servlets.FirstServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>FunnyServlet</servlet-name>
+		<servlet-class>com.workshop.servlets.SecondServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>FormServlet</servlet-name>
+		<servlet-class>com.workshop.servlets.FormServlet</servlet-class>
+		<init-param>
+			<param-name>goodMessage</param-name>
+			<param-value>Congratulations, that's a great choice !</param-value>
+		</init-param>
+		<init-param>
+			<param-name>badMessage</param-name>
+			<param-value>Are you for real ? </param-value>
+		</init-param>
+	</servlet>
+
+	<!-- Servlet mapping -->
+	<servlet-mapping>
+		<servlet-name>AwesomeServlet</servlet-name>
+		<url-pattern>/awesome</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>FunnyServlet</servlet-name>
+		<url-pattern>/cool</url-pattern>
+		<url-pattern>/first/second</url-pattern>
+		<url-pattern>/third/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>FormServlet</servlet-name>
+		<url-pattern>/processForm</url-pattern>
+	</servlet-mapping>
+
+
+</web-app>

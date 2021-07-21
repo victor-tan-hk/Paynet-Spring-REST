@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    <!-- Approach 1: Specify literal values directly -->
+
+    <bean id="collegeStudent" class="com.workshop.literal.CollegeStudent">
+      
+      <property name = "collegeName" value = "Dartmouth"/>
+      <property name = "CGPA" value = "3.5"/>
+      
+      <property name = "myExercise">
+         <bean class = "com.workshop.literal.SwimmingExercise"/>
+      </property> 
+         
+    </bean>
+    
+    <!-- Approach 2: Load values from an external property file -->
+    
+    <context:property-placeholder location="classpath:highschool.properties"/>
+
+    <bean id="highSchoolStudent" class="com.workshop.literal.HighSchoolStudent">
+      
+      <property name = "highSchoolName" value = "${myHighSchool}"/>
+      <property name = "age" value = "${myAge}"/>
+      
+      <property name = "myExercise">
+         <bean class = "com.workshop.literal.JoggingExercise"/>
+      </property> 
+         
+    </bean>
+    
+</beans>

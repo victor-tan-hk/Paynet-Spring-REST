@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+	id="WebApp_ID" version="3.1">
+	<display-name>JSPBasicProject</display-name>
+
+	<context-param>
+		<param-name>goodMessage</param-name>
+		<param-value>Congratulations, that's a great choice !</param-value>
+	</context-param>
+
+
+	<context-param>
+		<param-name>badMessage</param-name>
+		<param-value>Are you for real ? </param-value>
+	</context-param>
+
+
+</web-app>

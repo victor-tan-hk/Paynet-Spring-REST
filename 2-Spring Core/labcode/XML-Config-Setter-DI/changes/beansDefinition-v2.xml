@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    <!-- Approach 1: Nest child bean approach -->
+
+    <bean id="collegeStudent" class="com.workshop.setterdi.CollegeStudent">
+      <property name = "myExercise">
+         <bean class = "com.workshop.setterdi.SwimmingExercise"/>
+      </property>    
+    </bean>
+    
+    <!-- Approach 2: Reference child bean separately -->
+
+    <bean id="joggingExercise" class="com.workshop.setterdi.JoggingExercise">
+    </bean>
+
+    <bean id="highSchoolStudent" class="com.workshop.setterdi.HighSchoolStudent">
+      <property name = "myExercise" ref="joggingExercise"/>
+    </bean>
+
+</beans>
