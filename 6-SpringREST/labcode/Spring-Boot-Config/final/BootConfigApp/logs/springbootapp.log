@@ -1,0 +1,21 @@
+2021-08-05 16:51:51 - c.w.b.BootConfigAppApplicationTests - Starting BootConfigAppApplicationTests using Java 16.0.1 on ganesha with PID 23932 (started by User in G:\code\sts-workspace\BootConfigApp)
+2021-08-05 16:51:51 - c.w.b.BootConfigAppApplicationTests - No active profile set, falling back to default profiles: default
+2021-08-05 16:51:52 - c.w.b.BootConfigAppApplicationTests - Started BootConfigAppApplicationTests in 1.215 seconds (JVM running for 1.914)
+2021-08-05 16:51:52 - com.workshop.boot.AppStartupRunner - Startup logic in ApplicationRunner implementation
+2021-08-05 16:51:52 - com.workshop.boot.AppStartupRunner - Your application started with option names : []
+2021-08-05 16:51:52 - com.workshop.boot.AppStartupRunner - The team I am rooting is for : Avengers
+2021-08-05 16:51:52 - c.w.boot.CommandLineAppStartupRunner - Startup logic in CommandLineRunner implementation
+2021-08-05 17:06:15 - c.w.b.BootConfigAppApplicationTests - Starting BootConfigAppApplicationTests using Java 16.0.1 on ganesha with PID 14772 (started by User in G:\code\sts-workspace\BootConfigApp)
+2021-08-05 17:06:15 - c.w.b.BootConfigAppApplicationTests - No active profile set, falling back to default profiles: default
+2021-08-05 17:06:16 - c.w.b.BootConfigAppApplicationTests - Started BootConfigAppApplicationTests in 1.378 seconds (JVM running for 2.093)
+2021-08-05 17:06:16 - com.workshop.boot.AppStartupRunner - Startup logic in ApplicationRunner implementation
+2021-08-05 17:06:16 - com.workshop.boot.AppStartupRunner - Your application started with option names : []
+2021-08-05 17:06:16 - com.workshop.boot.AppStartupRunner - The team I am rooting is for : Avengers
+2021-08-05 17:06:16 - c.w.boot.CommandLineAppStartupRunner - Startup logic in CommandLineRunner implementation
+2021-08-05 17:12:59 - c.w.b.BootConfigAppApplicationTests - Starting BootConfigAppApplicationTests using Java 16.0.1 on ganesha with PID 18236 (started by User in G:\code\sts-workspace\BootConfigApp)
+2021-08-05 17:12:59 - c.w.b.BootConfigAppApplicationTests - No active profile set, falling back to default profiles: default
+2021-08-05 17:13:00 - c.w.b.BootConfigAppApplicationTests - Started BootConfigAppApplicationTests in 1.308 seconds (JVM running for 2.024)
+2021-08-05 17:13:00 - com.workshop.boot.AppStartupRunner - Startup logic in ApplicationRunner implementation
+2021-08-05 17:13:00 - com.workshop.boot.AppStartupRunner - Your application started with option names : []
+2021-08-05 17:13:00 - com.workshop.boot.AppStartupRunner - The team I am rooting is for : Avengers
+2021-08-05 17:13:00 - c.w.boot.CommandLineAppStartupRunner - Startup logic in CommandLineRunner implementation

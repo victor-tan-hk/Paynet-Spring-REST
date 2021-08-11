@@ -1,0 +1,4 @@
+spring.main.banner-mode=off
+server.port=9090
+server.servlet.context-path=/superman
+schoolName=Jefferson High School

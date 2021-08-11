@@ -1,0 +1,974 @@
+2021-08-10 20:36:01 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 14756 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-10 20:36:01 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-10 20:36:01 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-10 20:36:01 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-10 20:36:01 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-10 20:36:01 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-10 20:36:02 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-10 20:36:02 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 566 ms
+2021-08-10 20:36:02 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-10 20:36:02 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-10 20:36:02 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.096 seconds (JVM running for 1.81)
+2021-08-10 20:36:19 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-10 20:36:19 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-10 20:36:19 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-10 20:36:19 - c.w.r.controller.DeveloperController - /developers invoked
+2021-08-10 20:37:26 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-10 20:37:30 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 4284 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-10 20:37:30 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-10 20:37:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-10 20:37:30 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-10 20:37:30 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-10 20:37:30 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-10 20:37:30 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-10 20:37:30 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 559 ms
+2021-08-10 20:37:30 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-10 20:37:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-10 20:37:30 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.068 seconds (JVM running for 1.637)
+2021-08-10 20:37:34 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-10 20:37:34 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-10 20:37:34 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-10 20:37:34 - c.w.r.controller.DeveloperController - /developers invoked
+2021-08-10 20:57:30 - c.w.r.controller.DeveloperController - /developers invoked
+2021-08-11 07:29:14 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 19488 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 07:29:14 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 07:29:14 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 07:29:14 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:29:14 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 07:29:14 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 07:29:14 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 07:29:14 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 639 ms
+2021-08-11 07:29:14 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:29:14 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 07:29:14 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.175 seconds (JVM running for 1.763)
+2021-08-11 07:29:24 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 07:29:24 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 07:29:24 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 07:29:24 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:32:02 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:32:27 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:34:22 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:34:30 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:35:10 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:35:17 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:35:36 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:41:50 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 07:49:30 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 8748 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 07:49:30 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 07:49:31 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 07:49:31 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:49:31 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 07:49:31 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 07:49:31 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 07:49:31 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 586 ms
+2021-08-11 07:49:31 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:49:31 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 07:49:31 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.123 seconds (JVM running for 1.683)
+2021-08-11 07:49:35 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 07:49:35 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 07:49:35 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 07:49:35 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:49:42 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:49:49 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 07:50:51 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 14196 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 07:50:51 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 07:50:52 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 07:50:52 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:50:52 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 07:50:52 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 07:50:52 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 07:50:52 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 670 ms
+2021-08-11 07:50:52 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:50:52 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 07:50:53 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.372 seconds (JVM running for 2.272)
+2021-08-11 07:50:54 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 07:50:58 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 13656 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 07:50:58 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 07:50:59 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 07:50:59 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:50:59 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 07:50:59 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 07:50:59 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 07:50:59 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 558 ms
+2021-08-11 07:50:59 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:50:59 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 07:50:59 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.068 seconds (JVM running for 1.616)
+2021-08-11 07:51:07 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 07:51:07 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 07:51:07 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 07:51:07 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:51:07 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 07:51:23 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle Spring framework exceptions
+2021-08-11 07:51:33 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:51:33 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 07:56:37 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 07:56:40 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 1564 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 07:56:40 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 07:56:41 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 07:56:41 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:56:41 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 07:56:41 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 07:56:41 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 07:56:41 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 562 ms
+2021-08-11 07:56:41 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 07:56:41 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 07:56:41 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.073 seconds (JVM running for 1.624)
+2021-08-11 07:56:50 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 07:56:50 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 07:56:50 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 07:56:50 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:57:03 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 07:59:32 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 07:59:32 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 08:00:25 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 08:02:28 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle Spring framework exceptions
+2021-08-11 08:15:27 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 08:15:31 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 13692 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 08:15:31 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 08:15:32 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 08:15:32 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 08:15:32 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 08:15:32 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 08:15:32 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 08:15:32 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 559 ms
+2021-08-11 08:15:32 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 08:15:32 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 08:15:32 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.069 seconds (JVM running for 1.633)
+2021-08-11 08:15:46 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 08:15:46 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 08:15:46 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 08:15:46 - c.w.r.controller.DeveloperController - MAP /api/developers invoked
+2021-08-11 11:37:13 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 11:37:16 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 2440 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 11:37:16 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 11:37:17 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 11:37:17 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:37:17 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 11:37:17 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 11:37:17 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 11:37:17 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 559 ms
+2021-08-11 11:37:17 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:37:17 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 11:37:17 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.061 seconds (JVM running for 1.625)
+2021-08-11 11:37:34 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 11:37:34 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 11:37:34 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 11:37:34 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 11:37:52 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 11:38:00 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 11:38:07 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 11:44:56 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 11:44:59 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 13372 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 11:44:59 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 11:45:00 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 11:45:00 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:45:00 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 11:45:00 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 11:45:00 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 11:45:00 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 559 ms
+2021-08-11 11:45:00 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:45:00 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 11:45:00 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.062 seconds (JVM running for 1.621)
+2021-08-11 11:45:16 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 11:45:16 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 11:45:16 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 11:45:16 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 11:45:25 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle Spring framework exceptions
+2021-08-11 11:45:32 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 11:45:36 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 11:48:03 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 11:51:44 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 11:52:42 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 11:53:10 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 9588 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 11:53:10 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 11:53:11 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 11:53:11 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:53:11 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 11:53:11 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 11:53:11 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 11:53:11 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 549 ms
+2021-08-11 11:53:11 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:53:11 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 11:53:11 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.038 seconds (JVM running for 1.6)
+2021-08-11 11:53:17 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 11:53:17 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 11:53:17 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 11:53:17 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 11:53:56 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 11:54:02 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 15388 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 11:54:02 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 11:54:03 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 11:54:03 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:54:03 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 11:54:03 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 11:54:03 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 11:54:03 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 544 ms
+2021-08-11 11:54:03 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:54:03 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 11:54:03 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.044 seconds (JVM running for 1.595)
+2021-08-11 11:54:14 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 11:54:14 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 11:54:14 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 11:54:14 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 11:58:59 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 11:59:03 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 25624 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 11:59:03 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 11:59:03 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 11:59:03 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:59:03 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 11:59:03 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 11:59:03 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 11:59:03 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 540 ms
+2021-08-11 11:59:03 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 11:59:03 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 11:59:03 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.038 seconds (JVM running for 1.588)
+2021-08-11 11:59:13 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 11:59:13 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 11:59:13 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 11:59:14 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 12:12:56 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 12:12:59 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 2172 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 12:12:59 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 12:13:00 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 12:13:00 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 12:13:00 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 12:13:00 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 12:13:00 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 12:13:00 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 548 ms
+2021-08-11 12:13:00 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 12:13:00 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 12:13:00 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.045 seconds (JVM running for 1.594)
+2021-08-11 12:13:08 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 12:13:08 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 12:13:08 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 12:15:12 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 12:15:31 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 12:31:16 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 12:31:22 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 12:31:47 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 13:02:55 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 31564 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 13:02:55 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 13:02:55 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 13:02:55 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:02:55 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 13:02:55 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 13:02:55 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 13:02:55 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 535 ms
+2021-08-11 13:02:55 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:02:55 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 13:02:55 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.019 seconds (JVM running for 1.567)
+2021-08-11 13:03:06 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 13:03:06 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 13:03:06 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 13:03:06 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:03:12 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:03:17 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:03:22 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:04:47 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:04:47 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 13:04:54 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:04:54 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 13:07:45 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 13:07:51 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 18824 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 13:07:51 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 13:07:51 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 13:07:51 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:07:51 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 13:07:51 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 13:07:51 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 13:07:51 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 547 ms
+2021-08-11 13:07:51 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:07:51 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 13:07:51 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.036 seconds (JVM running for 1.579)
+2021-08-11 13:08:11 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 13:08:11 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 13:08:11 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 13:08:11 - c.w.r.controller.DeveloperController - GET /api/developers/888 invoked
+2021-08-11 13:08:11 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle developer not found
+2021-08-11 13:08:22 - c.w.r.controller.DeveloperController - GET /api/developers/2 invoked
+2021-08-11 13:08:28 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:08:50 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 13:47:56 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 18092 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 13:47:56 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 13:47:57 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 13:47:57 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:47:57 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 13:47:57 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 13:47:57 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 13:47:57 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 542 ms
+2021-08-11 13:47:57 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:47:57 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 13:47:57 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.036 seconds (JVM running for 1.587)
+2021-08-11 13:48:15 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 13:48:15 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 13:48:15 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 13:48:15 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:48:34 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:48:34 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 13:48:34 - c.w.rest.service.DeveloperService - Key = dog, Value = mouse
+2021-08-11 13:50:45 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:51:06 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:51:06 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 13:51:06 - c.w.rest.service.DeveloperService - Key = hero, Value = ironman
+2021-08-11 13:51:06 - c.w.rest.service.DeveloperService - Key = age, Value = 33
+2021-08-11 13:53:07 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 13:53:11 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 4160 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 13:53:11 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 13:53:11 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 13:53:11 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:53:11 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 13:53:11 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 13:53:11 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 13:53:11 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 553 ms
+2021-08-11 13:53:11 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:53:11 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 13:53:11 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.052 seconds (JVM running for 1.603)
+2021-08-11 13:53:18 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 13:53:18 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 13:53:18 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 13:53:18 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:53:18 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 13:53:18 - c.w.rest.service.DeveloperService - Key = hero, Value = ironman
+2021-08-11 13:53:18 - c.w.rest.service.DeveloperService - Key = age, Value = 33
+2021-08-11 13:53:23 - c.w.r.controller.DeveloperController - GET /api/developers/1 invoked
+2021-08-11 13:53:25 - c.w.r.controller.DeveloperController - GET /api/developers/2 invoked
+2021-08-11 13:53:28 - c.w.r.controller.DeveloperController - GET /api/developers/3 invoked
+2021-08-11 13:53:32 - c.w.r.controller.DeveloperController - GET /api/developers/4 invoked
+2021-08-11 13:58:45 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 13:58:48 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 27684 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 13:58:48 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 13:58:49 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 13:58:49 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:58:49 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 13:58:49 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 13:58:49 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 13:58:49 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 542 ms
+2021-08-11 13:58:49 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 13:58:49 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 13:58:49 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.035 seconds (JVM running for 1.586)
+2021-08-11 13:58:54 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 13:58:54 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 13:58:54 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 13:58:54 - c.w.r.controller.DeveloperController - GET /api/developers/4 invoked
+2021-08-11 13:58:58 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:59:17 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 13:59:17 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 13:59:17 - c.w.rest.service.DeveloperService - Key = hero, Value = ironman
+2021-08-11 13:59:17 - c.w.rest.service.DeveloperService - Key = age, Value = 33
+2021-08-11 14:09:48 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 15:41:20 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 28604 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 15:41:20 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 15:41:20 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 15:41:20 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 15:41:20 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 15:41:20 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 15:41:20 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 15:41:20 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 564 ms
+2021-08-11 15:41:20 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 15:41:20 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 15:41:20 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.064 seconds (JVM running for 1.627)
+2021-08-11 15:41:38 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 15:41:38 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 15:41:38 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 15:41:38 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 15:41:38 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 15:41:38 - c.w.rest.service.DeveloperService - Filtering on language : Java
+2021-08-11 15:41:51 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 15:41:51 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 15:41:51 - c.w.rest.service.DeveloperService - Filtering on language : Erlang
+2021-08-11 15:42:12 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 15:42:12 - c.w.rest.service.DeveloperService - Developer Service: received parameters
+2021-08-11 15:42:12 - c.w.rest.service.DeveloperService - Filtering on language : Python
+2021-08-11 15:51:46 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 15:54:43 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:03:52 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 27584 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:03:52 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:03:53 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:03:53 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:03:53 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:03:53 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:03:53 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:03:53 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 548 ms
+2021-08-11 16:03:53 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:03:53 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:03:53 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.047 seconds (JVM running for 1.6)
+2021-08-11 16:04:07 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:04:07 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:04:07 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:04:07 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:04:07 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:04:17 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:04:20 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 30600 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:04:20 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:04:21 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:04:21 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:04:21 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:04:21 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:04:21 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:04:21 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 552 ms
+2021-08-11 16:04:21 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:04:21 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:04:21 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.064 seconds (JVM running for 1.623)
+2021-08-11 16:05:03 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:05:03 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:05:03 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:05:03 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:05:13 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:05:13 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:06:07 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:06:11 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 8652 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:06:11 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:06:11 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:06:11 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:06:11 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:06:11 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:06:11 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:06:11 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 536 ms
+2021-08-11 16:06:12 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:06:12 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:06:12 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.025 seconds (JVM running for 1.57)
+2021-08-11 16:06:16 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:06:16 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:06:16 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:06:16 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:06:16 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:06:26 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:06:26 - c.w.rest.service.DeveloperService - Filtering on marriage : false
+2021-08-11 16:06:32 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:06:32 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 16:09:25 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:09:25 - c.w.rest.service.DeveloperService - Filtering on marriage : false
+2021-08-11 16:09:33 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:09:33 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:10:28 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:10:28 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 16:11:20 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:14:11 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:14:11 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:14:28 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:14:28 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:14:28 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 16:17:43 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:17:43 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 16:17:43 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 16:18:28 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:18:28 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 16:18:28 - c.w.rest.service.DeveloperService - Filtering on marriage : false
+2021-08-11 16:18:36 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:18:36 - c.w.rest.service.DeveloperService - Filtering on language : ere
+2021-08-11 16:18:36 - c.w.rest.service.DeveloperService - Filtering on marriage : false
+2021-08-11 16:19:25 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:20:20 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:20:20 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 16:20:20 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 16:30:44 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:30:47 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 31780 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:30:47 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:30:47 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:30:47 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:30:47 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:30:47 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:30:47 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:30:47 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 568 ms
+2021-08-11 16:30:48 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:30:48 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:30:48 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.084 seconds (JVM running for 1.659)
+2021-08-11 16:30:58 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:30:58 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:30:58 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:30:58 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:33:51 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:33:54 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 10736 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:33:54 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:33:54 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:33:54 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:33:54 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:33:54 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:33:54 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:33:54 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 546 ms
+2021-08-11 16:33:55 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:33:55 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:33:55 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.045 seconds (JVM running for 1.593)
+2021-08-11 16:34:02 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:34:02 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:34:02 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:34:02 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:34:02 - c.w.r.controller.DeveloperController - Query string : age%3E10
+2021-08-11 16:42:17 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:42:20 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 6544 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:42:20 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:42:21 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:42:21 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:42:21 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:42:21 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:42:21 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:42:21 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 548 ms
+2021-08-11 16:42:21 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:42:21 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:42:21 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.041 seconds (JVM running for 1.593)
+2021-08-11 16:42:29 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:42:29 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:42:29 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:42:29 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:42:29 - c.w.r.controller.DeveloperController - Query string : age%3E10
+2021-08-11 16:42:29 - c.w.r.controller.DeveloperController - age>10
+2021-08-11 16:58:06 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 16:58:09 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 21320 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 16:58:09 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 16:58:10 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 16:58:10 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:58:10 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 16:58:10 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 16:58:10 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 16:58:10 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 534 ms
+2021-08-11 16:58:10 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 16:58:10 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 16:58:10 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.023 seconds (JVM running for 1.57)
+2021-08-11 16:58:19 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 16:58:19 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 16:58:19 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 16:58:19 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 16:58:19 - o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at java.net.URLDecoder.decode(URLDecoder.java:136)
+	at com.workshop.rest.controller.DeveloperController.getDevelopers(DeveloperController.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:228)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1723)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-08-11 17:02:32 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:02:37 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 31912 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:02:37 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:02:38 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:02:38 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:02:38 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:02:38 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:02:38 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:02:38 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 568 ms
+2021-08-11 17:02:38 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:02:38 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:02:38 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.083 seconds (JVM running for 1.642)
+2021-08-11 17:02:43 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:02:43 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:02:43 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:02:43 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:02:55 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:02:55 - c.w.r.controller.DeveloperController - Query string received : language=java
+2021-08-11 17:02:55 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 17:03:08 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:03:08 - c.w.r.controller.DeveloperController - Query string received : language=java&married=true
+2021-08-11 17:03:08 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 17:03:08 - c.w.rest.service.DeveloperService - Filtering on marriage : true
+2021-08-11 17:03:22 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:03:26 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:03:26 - c.w.r.controller.DeveloperController - Query string received : age>10
+2021-08-11 17:03:26 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age%3E10
+2021-08-11 17:03:47 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:03:50 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 19120 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:03:50 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:03:51 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:03:51 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:03:51 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:03:51 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:03:51 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:03:51 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 537 ms
+2021-08-11 17:03:51 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:03:51 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:03:51 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.024 seconds (JVM running for 1.568)
+2021-08-11 17:03:57 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:03:57 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:03:57 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 17:03:57 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:03:57 - c.w.r.controller.DeveloperController - Query string received : age>10
+2021-08-11 17:03:57 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>10
+2021-08-11 17:04:08 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:04:13 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 4040 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:04:13 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:04:14 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:04:14 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:04:14 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:04:14 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:04:14 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:04:14 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 547 ms
+2021-08-11 17:04:14 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:04:14 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:04:14 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.038 seconds (JVM running for 1.59)
+2021-08-11 17:04:18 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:04:18 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:04:18 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:04:18 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:04:18 - c.w.r.controller.DeveloperController - Query string received : age>10
+2021-08-11 17:04:18 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>10
+2021-08-11 17:07:35 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:07:41 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 32192 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:07:41 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:07:41 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:07:41 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:07:41 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:07:41 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:07:41 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:07:41 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 556 ms
+2021-08-11 17:07:42 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:07:42 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:07:42 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.058 seconds (JVM running for 1.613)
+2021-08-11 17:07:49 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:07:49 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:07:49 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:07:49 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:07:49 - c.w.r.controller.DeveloperController - Query string received : age>10
+2021-08-11 17:07:49 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>10
+2021-08-11 17:07:49 - c.w.rest.service.DeveloperService - The condition is : true
+2021-08-11 17:07:58 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:07:58 - c.w.r.controller.DeveloperController - Query string received : age>50
+2021-08-11 17:07:58 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>50
+2021-08-11 17:07:58 - c.w.rest.service.DeveloperService - The condition is : false
+2021-08-11 17:08:10 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:08:10 - c.w.r.controller.DeveloperController - Query string received : age>30
+2021-08-11 17:08:10 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>30
+2021-08-11 17:08:10 - c.w.rest.service.DeveloperService - The condition is : false
+2021-08-11 17:08:14 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:08:14 - c.w.r.controller.DeveloperController - Query string received : age>29
+2021-08-11 17:08:14 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>29
+2021-08-11 17:08:14 - c.w.rest.service.DeveloperService - The condition is : true
+2021-08-11 17:09:41 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:09:44 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 20380 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:09:44 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:09:45 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:09:45 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:09:45 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:09:45 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:09:45 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:09:45 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 537 ms
+2021-08-11 17:09:45 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:09:45 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:09:45 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.029 seconds (JVM running for 1.577)
+2021-08-11 17:09:49 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:09:49 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:09:49 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:09:49 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:09:49 - c.w.r.controller.DeveloperController - Query string received : age>29
+2021-08-11 17:09:49 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>29
+2021-08-11 17:09:49 - o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.workshop.rest.service.DeveloperService.evalExpression(DeveloperService.java:208)
+	at com.workshop.rest.controller.DeveloperController.getDevelopers(DeveloperController.java:60)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1064)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:228)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:190)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:163)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1723)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2021-08-11 17:10:18 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:10:21 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 31128 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:10:21 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:10:22 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:10:22 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:10:22 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:10:22 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:10:22 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:10:22 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 539 ms
+2021-08-11 17:10:22 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:10:22 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:10:22 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.028 seconds (JVM running for 1.571)
+2021-08-11 17:10:27 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:10:27 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:10:27 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 17:10:27 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:10:27 - c.w.r.controller.DeveloperController - Query string received : age>29
+2021-08-11 17:10:27 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>29
+2021-08-11 17:10:27 - c.w.rest.service.DeveloperService - The condition is : true
+2021-08-11 17:14:47 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:14:50 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 22068 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:14:50 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:14:50 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:14:50 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:14:50 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:14:50 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:14:50 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:14:50 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 536 ms
+2021-08-11 17:14:51 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:14:51 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:14:51 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.03 seconds (JVM running for 1.582)
+2021-08-11 17:14:54 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:14:54 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:14:54 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 17:14:54 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:14:54 - c.w.rest.service.DeveloperService - conditional expression : age>29
+2021-08-11 17:15:08 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:15:14 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 7056 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:15:14 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:15:15 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:15:15 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:15:15 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:15:15 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:15:15 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:15:15 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 538 ms
+2021-08-11 17:15:15 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:15:15 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:15:15 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.041 seconds (JVM running for 1.589)
+2021-08-11 17:15:18 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:15:18 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:15:18 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:15:18 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:15:18 - c.w.rest.service.DeveloperService - conditional expression : +++++ age>29
+2021-08-11 17:25:18 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:25:23 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 17172 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:25:23 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:25:24 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:25:24 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:25:24 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:25:24 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:25:24 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:25:24 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 541 ms
+2021-08-11 17:25:24 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:25:24 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:25:24 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.025 seconds (JVM running for 1.577)
+2021-08-11 17:25:28 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:25:28 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:25:28 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 17:25:28 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:25:28 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>29
+2021-08-11 17:25:44 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:25:44 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>50
+2021-08-11 17:26:26 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:26:26 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>40
+2021-08-11 17:26:47 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:26:47 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age<35
+2021-08-11 17:31:55 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:31:58 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 32584 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:31:58 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:31:58 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:31:58 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:31:58 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:31:58 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:31:58 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:31:58 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 543 ms
+2021-08-11 17:31:59 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:31:59 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:31:59 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.038 seconds (JVM running for 1.588)
+2021-08-11 17:32:21 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:32:21 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:32:21 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:32:21 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:32:21 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age<35
+2021-08-11 17:32:21 - c.w.rest.service.DeveloperService - Filtering on language : JavaScript
+2021-08-11 17:37:01 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 17:40:05 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 31488 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 17:40:05 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 17:40:05 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 17:40:05 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:40:05 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 17:40:05 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 17:40:05 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 17:40:05 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 540 ms
+2021-08-11 17:40:05 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 17:40:05 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 17:40:05 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.046 seconds (JVM running for 1.599)
+2021-08-11 17:40:16 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 17:40:16 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 17:40:16 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 17:40:16 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:40:16 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age<35
+2021-08-11 17:41:31 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:41:31 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>50
+2021-08-11 17:42:31 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:42:31 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age<40
+2021-08-11 17:42:49 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:42:49 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age<40
+2021-08-11 17:42:49 - c.w.rest.service.DeveloperService - Filtering on language : java
+2021-08-11 17:44:03 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 17:44:03 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:03:24 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 18:03:29 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 1788 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 18:03:29 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 18:03:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 18:03:30 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 18:03:30 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 18:03:30 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 18:03:30 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 18:03:30 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 538 ms
+2021-08-11 18:03:30 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 18:03:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 18:03:30 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.027 seconds (JVM running for 1.572)
+2021-08-11 18:03:41 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 18:03:41 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 18:03:41 - o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2021-08-11 18:03:41 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:03:41 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:03:49 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:03:49 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age>40
+2021-08-11 18:03:56 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:03:56 - c.w.rest.service.DeveloperService - Filtering on conditional expression : age<35
+2021-08-11 18:04:03 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:04:17 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:04:17 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:04:26 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:04:26 - c.w.rest.service.DeveloperService - Filtering on limit : 15 and start : 10
+2021-08-11 18:11:23 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 18:11:29 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 16160 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 18:11:29 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 18:11:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 18:11:30 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 18:11:30 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 18:11:30 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 18:11:30 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 18:11:30 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 543 ms
+2021-08-11 18:11:30 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 18:11:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 18:11:30 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.037 seconds (JVM running for 1.585)
+2021-08-11 18:11:44 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 18:11:44 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 18:11:44 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 18:11:44 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:11:44 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 1
+2021-08-11 18:11:53 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:11:53 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 2
+2021-08-11 18:12:01 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:01 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 3
+2021-08-11 18:12:07 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:07 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 4
+2021-08-11 18:12:13 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:13 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 5
+2021-08-11 18:12:18 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:18 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 6
+2021-08-11 18:12:18 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:12:31 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:31 - c.w.rest.service.DeveloperService - Filtering on limit : 1 and start : 1
+2021-08-11 18:12:38 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:38 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 1
+2021-08-11 18:12:44 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:12:44 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 2
+2021-08-11 18:12:50 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-11 18:12:55 - c.w.rest.DevRestAppApplication - Starting DevRestAppApplication using Java 1.8.0_251 on ganesha with PID 1492 (G:\code\sts-workspace\DevRestApp\target\classes started by User in G:\code\sts-workspace\DevRestApp)
+2021-08-11 18:12:55 - c.w.rest.DevRestAppApplication - No active profile set, falling back to default profiles: default
+2021-08-11 18:12:55 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-08-11 18:12:55 - o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2021-08-11 18:12:55 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2021-08-11 18:12:55 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-08-11 18:12:55 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-08-11 18:12:55 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 539 ms
+2021-08-11 18:12:55 - o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2021-08-11 18:12:55 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2021-08-11 18:12:55 - c.w.rest.DevRestAppApplication - Started DevRestAppApplication in 1.033 seconds (JVM running for 1.584)
+2021-08-11 18:13:02 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-08-11 18:13:02 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-08-11 18:13:02 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-08-11 18:13:02 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:13:02 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:13:09 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:13:09 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:13:22 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:13:22 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 2
+2021-08-11 18:31:05 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:31:05 - c.w.rest.service.DeveloperService - Filtering on limit : 3 and start : 3
+2021-08-11 18:31:13 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:31:13 - c.w.rest.service.DeveloperService - Filtering on limit : 10 and start : 3
+2021-08-11 18:33:45 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:33:45 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:34:06 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:34:06 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:34:28 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:34:28 - c.w.rest.service.DeveloperService - Filtering on limit : 2 and start : 10
+2021-08-11 18:34:28 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:34:53 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:34:53 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:34:58 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:34:58 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:35:05 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:35:05 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:35:10 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:35:10 - c.w.rest.service.DeveloperService - Filtering on limit : 2 and start : 5
+2021-08-11 18:35:20 - c.w.r.controller.DeveloperController - GET /api/developers invoked
+2021-08-11 18:35:20 - c.w.rest.service.DeveloperService - Filtering on limit : 2 and start : 6
+2021-08-11 18:35:20 - c.w.r.c.DeveloperControllerExceptionHandler - Exception handling logic to handle incorrect JSON format
+2021-08-11 18:36:01 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
