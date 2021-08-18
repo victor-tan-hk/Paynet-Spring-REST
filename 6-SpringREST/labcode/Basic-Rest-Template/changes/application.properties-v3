@@ -1,0 +1,3 @@
+myrest.url=https://v6.exchangerate-api.com/v6
+my.key=Enter your API key here
+spring.main.web-application-type=none

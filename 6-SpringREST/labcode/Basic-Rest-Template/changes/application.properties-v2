@@ -1,0 +1,2 @@
+myrest.url=https://jsonplaceholder.typicode.com
+spring.main.web-application-type=none
