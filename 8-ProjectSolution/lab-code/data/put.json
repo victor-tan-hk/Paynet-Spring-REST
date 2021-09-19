@@ -1,0 +1,16 @@
+{
+    "name": "Tuvalu",
+    "capital": "Wakanda",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 22300700,
+    "currencies": [
+        "USD",
+        "KHR"
+    ],
+    "languages": [
+        "th",
+        "en"
+    ]
+}
+

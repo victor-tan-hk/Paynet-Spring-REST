@@ -1,0 +1,17 @@
+{
+    "name": "Shangrila",
+    "capital": "peace",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 500800,
+    "currencies": [
+        "EUR",
+        "USD"
+    ],
+    "languages": [
+        "en",
+        "fr",
+        "de"
+    ]
+}
+

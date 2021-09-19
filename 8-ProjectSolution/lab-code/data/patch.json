@@ -1,0 +1,7 @@
+[
+    {"op":"replace","path":"/capital","value":"awesome place"},
+    {"op":"replace","path":"/region","value":"Asia"},
+    {"op":"replace","path":"/subregion","value":"Southern Asia"}
+]
+
+
