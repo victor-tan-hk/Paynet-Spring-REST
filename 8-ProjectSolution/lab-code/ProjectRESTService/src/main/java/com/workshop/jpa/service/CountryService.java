@@ -1,8 +1,22 @@
 package com.workshop.jpa.service;
 
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+
+
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -52,6 +66,9 @@ public class CountryService {
 
   @Value("${rapidapi.key}")
   private String rapidAPIKey;
+  
+  @Value("${json.file}")
+  private String jsonFile;
 
 
   
@@ -440,6 +457,59 @@ public class CountryService {
       countryRepo.save(new Country(cdto));
     }
     log.info("Database table countries initialized with : " + countryDTOs.size() + " records");
+
+  }
+  
+  public void initializeFromJSONFile() {
+
+    log.info("Initializing from : " + jsonFile);
+
+    String fileContent = "";
+    try {
+      fileContent = new String(Files.readAllBytes(Paths.get("src/main/resources/" + jsonFile)));
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+
+    ObjectMapper mapper = new ObjectMapper();
+    JsonNode rootNode, countryArray;
+    List<String> currenciesList;
+    List<String> languagesList = new ArrayList<String>();
+
+    try {
+      rootNode = mapper.readValue(fileContent, JsonNode.class);
+      countryArray = rootNode.get("country");
+      
+      for (JsonNode tempNode : countryArray) {
+        
+        CountryDTO countryDTO = new CountryDTO();
+        countryDTO.setName(tempNode.get("name").asText());
+        countryDTO.setCapital(tempNode.get("capital").asText());
+        countryDTO.setRegion(tempNode.get("region").asText());
+        countryDTO.setSubregion(tempNode.get("subregion").asText());
+        countryDTO.setPopulation(tempNode.get("population").asLong(0));
+
+        currenciesList = new ArrayList<String>();
+        for (JsonNode currNode : tempNode.get("currencies")) {
+          currenciesList.add(currNode.asText());
+        }
+        countryDTO.setCurrencies(currenciesList.toArray(new String[0]));
+        
+        languagesList = new ArrayList<String>();
+        for (JsonNode langNode : tempNode.get("languages")) {
+          languagesList.add(langNode.asText());
+        }
+        countryDTO.setLanguages(languagesList.toArray(new String[0]));
+        
+        log.info(countryDTO.toString());
+        countryRepo.save(new Country(countryDTO));
+
+      }
+
+    } catch (JsonProcessingException e) {
+      // TODO Auto-generated catch block
+      e.printStackTrace();
+    }
 
   }
   

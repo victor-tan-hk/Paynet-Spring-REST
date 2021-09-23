@@ -4,6 +4,11 @@ package com.workshop.jpa;
 // in the application - instead of placing them into application.properties
 public class ServerConstants {
   
+  // Constants for deciding on how to initialize the database table
+  public static final String READ_FILE_OPTION = "file";
+  public static final String RETRIEVE_SERVER_OPTION = "server";
+  
+  
   // Constants for setting headers to interact with the RapidAPI service
   public static final String RAPIDAPI_HOST_HEADER = "x-rapidapi-host";
   public static final String RAPIDAPI_KEY_HEADER = "x-rapidapi-key";

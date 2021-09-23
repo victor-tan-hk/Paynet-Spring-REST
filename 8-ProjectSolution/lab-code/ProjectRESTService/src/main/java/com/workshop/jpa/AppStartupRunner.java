@@ -15,7 +15,7 @@ import lombok.extern.slf4j.Slf4j;
 @Component
 public class AppStartupRunner implements CommandLineRunner {
   
-  @Value("${initialize.publicAPI:false}")
+  @Value("${initialize.mode:nothing}")
   private String initializeValue;
   
   @Autowired
@@ -26,9 +26,16 @@ public class AppStartupRunner implements CommandLineRunner {
 
     log.info("REST API service started up");
     
-    if (initializeValue.toLowerCase().equals("true")) {
+    if (initializeValue.toLowerCase().equals(ServerConstants.RETRIEVE_SERVER_OPTION)) {
+
       countryService.initializeFromPublicAPI();
+    
+    } else if (initializeValue.toLowerCase().equals(ServerConstants.READ_FILE_OPTION)) {
+    
+      countryService.initializeFromJSONFile();
+
     } else {
+      
       log.info("Assuming table initialization has been completed");
     }
 
